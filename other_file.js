@@ -1,2 +1,2 @@
 console.log(name)
-var inddex = require("./index.js")
+var index = require("./index.js")
